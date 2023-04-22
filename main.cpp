@@ -73,6 +73,7 @@ void solve()
         ans = min(ans, mx);
     }
     cout<<ans;
+    cout<<"YES";
 }
 
 signed main()
